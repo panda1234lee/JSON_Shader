@@ -1,0 +1,9 @@
+[[{
+			"Vertex Shader Path":	"../Shader/vs_0.glsl",
+			"Fragment Shader Path":	"../Shader/fs_0.glsl"
+		}, {
+			"Channel 0":	"iChannel0",
+			"Channel 1":	"iChannel1",
+			"Global Time":	"iGlobalTime",
+			"Resolution":	"iResolution"
+		}]]
